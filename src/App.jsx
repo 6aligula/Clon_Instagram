@@ -1,5 +1,5 @@
 import './App.css';
-import Homepage from "./Homepage";
+import Homepage from "./Homepage.jsx";
 import Authenticate from "./authenticate/Authenticate";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
